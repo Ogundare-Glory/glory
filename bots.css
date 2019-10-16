@@ -1,0 +1,17 @@
+header{
+  padding-bottom: 50%;
+}
+
+
+.image{
+  justify-content:flex-start;
+  margin-top: 2%;
+  position: static;
+  z-index:-1;
+}
+.form{
+  justify-content:flex-end;
+  z-index:0;
+}
+
+  
